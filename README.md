@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/080b0f74-9cee-497d-a03a-37be91deb020
 
 https://github.com/user-attachments/assets/f0dd2c38-730a-4116-8fa9-b63c42957dbf
 
-PSO Parameters
+## PSO Parameters
 
 You can adjust the PSO parameters in the ParticleSwarmOptimization class:
 
@@ -78,6 +78,6 @@ You can adjust the PSO parameters in the ParticleSwarmOptimization class:
 - `c2`: Social coefficient (influence of global best).
 - `w`: Inertia weight (velocity retention across iterations).
 
-License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT** License.
